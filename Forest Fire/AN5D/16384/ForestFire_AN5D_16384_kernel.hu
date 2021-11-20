@@ -1,0 +1,6 @@
+#include "cuda.h"
+
+__global__ void kernel0_4(unsigned char *grid, unsigned char *lookup_table, int c0);
+__global__ void kernel0_3(unsigned char *grid, unsigned char *lookup_table, int c0);
+__global__ void kernel0_2(unsigned char *grid, unsigned char *lookup_table, int c0);
+__global__ void kernel0_1(unsigned char *grid, unsigned char *lookup_table, int c0);
