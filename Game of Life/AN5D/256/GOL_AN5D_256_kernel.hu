@@ -1,0 +1,6 @@
+#include "cuda.h"
+
+__global__ void kernel0_4(char *grid, char *rule_table, int c0);
+__global__ void kernel0_3(char *grid, char *rule_table, int c0);
+__global__ void kernel0_2(char *grid, char *rule_table, int c0);
+__global__ void kernel0_1(char *grid, char *rule_table, int c0);
