@@ -2,7 +2,7 @@
 
 This code is related to paper:
 
-Daniel Cagigas-Muñiz, Fernando Diaz-del-Rio, Jose Luis Sevillano-Ramos, Jose-Luis Guisado-Lizar, "Efficient simulation execution of cellular automata on GPU", Simulation Modelling Practice and Theory, Volume 118, 2022, ISSN 1569-190X.
+Daniel Cagigas-Muñiz, Fernando Diaz-del-Rio, Jose Luis Sevillano-Ramos, Jose-Luis Guisado-Lizar, "Efficient simulation execution of cellular automata on GPU", Simulation Modelling Practice and Theory, Volume 118, 2022, ISSN 1569-190X. https://doi.org/10.1016/j.simpat.2022.102519 
 
 This repository contains Cuda source code of several (bi-dimensional) Cellular Automata:
 
